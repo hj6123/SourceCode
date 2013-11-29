@@ -1,0 +1,10 @@
+D:\software\C#HOOK\SystemHook\bin\Debug\SystemHook.dll
+D:\software\C#HOOK\SystemHook\bin\Debug\SystemHook.pdb
+D:\software\C#HOOK\SystemHook\obj\Debug\SystemHook.dll
+D:\software\C#HOOK\SystemHook\obj\Debug\SystemHook.pdb
+D:\software\C#HOOK\SystemHook\obj\Debug\SystemHook.csprojResolveAssemblyReference.cache
+D:\software\SourceCode\C#HOOK\SystemHook\bin\Debug\SystemHook.dll
+D:\software\SourceCode\C#HOOK\SystemHook\bin\Debug\SystemHook.pdb
+D:\software\SourceCode\C#HOOK\SystemHook\obj\Debug\SystemHook.csprojResolveAssemblyReference.cache
+D:\software\SourceCode\C#HOOK\SystemHook\obj\Debug\SystemHook.dll
+D:\software\SourceCode\C#HOOK\SystemHook\obj\Debug\SystemHook.pdb
